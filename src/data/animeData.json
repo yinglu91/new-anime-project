@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1665,
+    "name": "Babel Nisei (OVA)",
+    "russian": "Вавилон Второй",
+    "image": {
+      "original": "/system/animes/original/1665.jpg?1701399132",
+      "preview": "/system/animes/preview/1665.jpg?1701399132",
+      "x96": "/system/animes/x96/1665.jpg?1701399132",
+      "x48": "/system/animes/x48/1665.jpg?1701399132"
+    },
+    "url": "/animes/1665-babel-nisei-ova",
+    "kind": "ova",
+    "score": "5.78",
+    "status": "released",
+    "episodes": 4,
+    "episodes_aired": 0,
+    "aired_on": "1992-03-21",
+    "released_on": "1992-10-21"
+  }
+]
